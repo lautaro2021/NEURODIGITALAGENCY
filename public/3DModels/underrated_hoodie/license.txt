@@ -1,0 +1,11 @@
+Model Information:
+* title:	UnderRated Hoodie
+* source:	https://sketchfab.com/3d-models/underrated-hoodie-9b898f0b2be344cfa07ba6b3a83708b4
+* author:	UnderRated (https://sketchfab.com/underratedhoodie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "UnderRated Hoodie" (https://sketchfab.com/3d-models/underrated-hoodie-9b898f0b2be344cfa07ba6b3a83708b4) by UnderRated (https://sketchfab.com/underratedhoodie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
